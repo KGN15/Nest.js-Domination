@@ -27,7 +27,7 @@ You can copy my this code base and se nots, practises, projects.
 ## Info
 * Name - Mashhudur Rahman 
 * Email - mashhudur.rahman.dev@gmail.com
-* website - ( https://mshhudurrahman.qzz.io )
+* website - ( https://mashhudurrahman.qzz.io )
 
 
 
